@@ -1,0 +1,8 @@
+Model Information:
+* title:	Chinese Pavilion in the Clouds | 亭子
+* source:	https://sketchfab.com/3d-models/chinese-pavilion-in-the-clouds-4aabed7364fa41719c0da99a89e1c634
+* author:	Zen Apricorna (https://sketchfab.com/zenartdesign)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
