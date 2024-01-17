@@ -76,7 +76,7 @@ const Works = () => {
       </motion.div>
 
       <div className="w-full flex">
-        <motion.p variants={fadeIn("", "", 0.1, 1)}>
+        <motion.div variants={fadeIn("", "", 0.1, 1)}>
           <p
             className={`${styles.sectionSubText} text-center mt-4 text-secondary text-[17px] leading-[30px]`}
           >
@@ -86,7 +86,7 @@ const Works = () => {
             in it. It reflects my ability to solve complex problems, and It
             tells the story of how I became interested in UX and frontend work.
           </p>
-        </motion.p>
+        </motion.div>
       </div>
 
       <div className="mt-20 flex flex-wrap gap-7">
